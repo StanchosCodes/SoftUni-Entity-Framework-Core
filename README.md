@@ -7,3 +7,4 @@ Here is a easier way to find the desired resource.
 2. [**ORM Fundamentals**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/ORM%20Fundamentals)
 3. [**Entity Framework Introduction**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/EntityFrameworkIntroduction)
 4. [**Entity Relations**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/EntityRelations)
+5. [**LINQ**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/LINQ)
