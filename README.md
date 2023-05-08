@@ -10,3 +10,4 @@ Here is a easier way to find the desired resource.
 5. [**LINQ**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/LINQ)
 6. [**Advanced Querying**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/AdvancedQuerying)
 7. [**Auto Mapping Objects**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/AutoMappingObjects)
+8. [**JSON Processing**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/JSONProcessing)
