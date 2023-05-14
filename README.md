@@ -12,3 +12,4 @@ Here is a easier way to find the desired resource.
 7. [**Auto Mapping Objects**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/AutoMappingObjects)
 8. [**JSON Processing**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/JSONProcessing)
 9. [**XML Processing**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/XMLProcessing)
+10. [**Exam Preparations**](https://github.com/StanchosCodes/SoftUni-Entity-Framework-Core/tree/main/Exams)
